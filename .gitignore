@@ -1,0 +1,9 @@
+# ignore all
+*
+!*/
+# docs
+!*.md
+!.gitignore
+!LICENCE
+# cpp
+!*.cpp
